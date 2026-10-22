@@ -126,5 +126,4 @@ SAPUI5 | SAP Fiori | SAP ABAP | SAP RAP
 ## 📄 License
 
 This project is intended for learning and demonstration purposes. Add a license file if you intend to distribute the project under a specific open-source license.
-# sapui5-product-catalog
-Product Catalog with FIORI 
+
